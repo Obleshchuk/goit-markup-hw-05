@@ -752,6 +752,7 @@ margin-bottom: 8px;
 
 .check-text span {
     display: inline-flex;
+    flex-wrap: nowrap;
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.40);
